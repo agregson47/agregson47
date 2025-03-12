@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @agregson47
 - 👀 I’m interested in coding in python, C/C++, ARM, x64 and retro coding in z80, 6502, 68k, BASIC and Forth. Bare metal Arduino, rPI PICO, STM32, ESP8266/32
-- 🌱 I’m currently learning latest changes to python3, jupyter
-- 💞️ I’m looking to collaborate on modern retro themed projects - emulations, "fantasy consoles", retro/bare metal coding in browser
-- 📫 How to reach me email or twitter @agregson
+- I enjoy lower level graphics, sound and games
