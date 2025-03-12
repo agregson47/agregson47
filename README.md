@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @agregson47
-- 👀 I’m interested in coding in python, C/C++, ARM, x64 and retro coding in z80, 6502, 68k, BASIC and Forth. Bare metal Arduino, rPI PICO, STM32, ESP8266/32
-- I enjoy lower level graphics, sound and games
+- 👋 Hi, I’m @agregson47 - Andrew
+- 👀 I’m interested in coding in python, C/C++, ARM, x64 and retro coding in z80, 6502, 68k, BASIC and Forth. "Close to metal" rPI and rPI PICO.
+- I enjoy lower level graphics, sound and games often writing as much as possible myself.
+- I miss the days when my hobby was called programming and it was fun and spontaneous.
